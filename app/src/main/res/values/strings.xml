@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Напоминалка</string>
+    <string name="add_reminder">Добавить напоминание</string>
+    <string name="title_hint">Заголовок</string>
+    <string name="message_hint">Текст напоминания</string>
+    <string name="pick_date">Выбрать дату</string>
+    <string name="pick_time">Выбрать время</string>
+    <string name="save_reminder">Сохранить</string>
+    <string name="delete">Удалить</string>
+</resources>
